@@ -10,7 +10,7 @@ public class MapExample {
         ArrayList<String> name = new ArrayList<String>();
         name.add("Jojn");
         name.add("Jon");
-        name.remove("Jojn")
+        name.remove("Jojn");
         HashSet<Integer> grade = new HashSet<Integer>();
         grade.add(12);
         grade.add(10);
